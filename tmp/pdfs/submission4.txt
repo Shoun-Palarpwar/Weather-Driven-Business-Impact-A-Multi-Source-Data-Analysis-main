@@ -1,0 +1,250 @@
+===== PAGE 1 =====
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                  ASSESSMENT      4                                 
+                              NAME:   AVIRAL   PATHAK                               
+                                                                                    
+                               REG.  NO.  : 25BDS0022                               
+                                                                                    
+          QUESTION:                                                                 
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          SOLUTION:                                                                 
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          OUTPUT:                                                                   
+                                                                                    
+                                                                                    
+          First five observations:                                                  
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          Statistical Summary:                                                      
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+
+===== PAGE 4 =====
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          HISTOGRAM:                                                                
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          SCATTER    PLOT:                                                          
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+
+===== PAGE 5 =====
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          INTERPRETATION:                                                           
+                                                                                    
+                                                                                    
+                                                                                    
+          Histogram     —  Distribution   analysis                                  
+                                                                                    
+                                                                                    
+                                                                                    
+          Chin-ups:  Participants show  variation in performance,                   
+                                                                                    
+          indicating differences in upper-body   strength and  endurance.           
+          Sit-ups: A wide distribution indicates considerable                       
+                                                                                    
+          differences in abdominal   endurance  among   participants.               
+                                                                                    
+          Jumps:  The  values show   substantial variation, with a notably          
+          high observation  of 250 that may  be an outlier.                         
+                                                                                    
+          Pulse rate: Pulse measurements     have a comparatively                   
+          narrower  range  than the exercise measurements,    suggesting            
+                                                                                    
+          less variation among  participants.                                       
+                                                                                    
+                                                                                    
+          Scatter   plots  —  Relationships     and  associations                   
+                                                                                    
+                                                                                    
+                                                                                    
+          Chin-ups  vs Pulse: The  correlation is approximately  0.15,              
+                                                                                    
+          indicating a very weak  positive linear association.                      
+          Sit-ups vs Pulse: The  correlation is approximately  0.23,                
+                                                                                    
+          indicating a weak  positive association.                                  
+                                                                                    
+          Jumps   vs Pulse: The correlation  is approximately  0.03,                
+          indicating almost  no linear association.                                 
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
